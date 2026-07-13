@@ -6,6 +6,14 @@ A lightweight, AI-assisted internal dashboard for Sales and Customer Success tea
 
 This project aggregates CRM, email, support, Slack, and product usage signals into a single customer brief. The dashboard surfaces health, urgency, risks, opportunities, recommendations, and supporting evidence.
 
+<a href="https://customer-intelligence-dashboard-d.streamlit.app/" target="_blank">
+    <img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg" alt="Streamlit App" style="height: 40px;">
+</a>
+
+**This project is deployed and live! Click the badge above to interact with the application.**
+
+![Additional Image](templates/image.png)
+
 ## Run locally
 
 ```bash
@@ -58,3 +66,8 @@ flowchart LR
 ## License
 
 This project is provided for assessment/demo purposes.
+
+## Contact & Further Information
+
+For questions, collaboration, or further details, please contact:
+- **Mohammed Sameer Wahab** — [sameerwahab671@gmail.com]
