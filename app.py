@@ -2,6 +2,7 @@
 
 from __future__ import annotations
 
+import os
 from pathlib import Path
 from typing import Any
 
@@ -19,6 +20,11 @@ from services.loader import get_customer_by_id, load_customer_data
 ROOT_DIR = Path(__file__).resolve().parent
 load_dotenv(ROOT_DIR / ".env", override=False)
 
+# <-- ADD THIS BLOCK TO FIX CLOUD DEPLOYMENT -->
+# If running in Streamlit Cloud, pull the secret and set it as an OS environment variable
+# so the OpenAI library inside your services can find it.
+if "OPENAI_API_KEY" in st.secrets:
+    os.environ["OPENAI_API_KEY"] = st.secrets["OPENAI_API_KEY"]
 
 def _render_urgency_badge(urgency: str) -> None:
     """Render a simple urgency badge with a color-coded label."""
