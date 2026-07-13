@@ -13,6 +13,8 @@ This project aggregates CRM, email, support, Slack, and product usage signals in
 **This project is deployed and live! Click the badge above to interact with the application.**
 
 ![Additional Image](templates/image1.png)
+![Additional Image](templates/image2.png)
+
 
 ## Run locally
 
