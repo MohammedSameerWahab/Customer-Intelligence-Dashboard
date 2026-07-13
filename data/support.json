@@ -1,0 +1,522 @@
+[
+  {
+    "customer_id": "CUST-001",
+    "ticket_id": "TKT-001-01",
+    "priority": "Low",
+    "status": "Pending",
+    "created_date": "2026-04-29",
+    "category": "Login issue",
+    "summary": "Login issue reported by customer contact.",
+    "resolution_notes": "Issue addressed and closed."
+  },
+  {
+    "customer_id": "CUST-001",
+    "ticket_id": "TKT-001-02",
+    "priority": "High",
+    "status": "Open",
+    "created_date": "2026-06-07",
+    "category": "Bug report",
+    "summary": "Bug report reported by customer contact.",
+    "resolution_notes": "Awaiting customer confirmation."
+  },
+  {
+    "customer_id": "CUST-003",
+    "ticket_id": "TKT-003-01",
+    "priority": "High",
+    "status": "Open",
+    "created_date": "2026-05-31",
+    "category": "Bug report",
+    "summary": "Bug report reported by customer contact.",
+    "resolution_notes": "Awaiting customer confirmation."
+  },
+  {
+    "customer_id": "CUST-005",
+    "ticket_id": "TKT-005-01",
+    "priority": "High",
+    "status": "Open",
+    "created_date": "2026-06-24",
+    "category": "Bug report",
+    "summary": "Bug report reported by customer contact.",
+    "resolution_notes": "Awaiting customer confirmation."
+  },
+  {
+    "customer_id": "CUST-005",
+    "ticket_id": "TKT-005-02",
+    "priority": "Medium",
+    "status": "Resolved",
+    "created_date": "2026-04-23",
+    "category": "Performance issue",
+    "summary": "Performance issue reported by customer contact.",
+    "resolution_notes": "Issue addressed and closed."
+  },
+  {
+    "customer_id": "CUST-005",
+    "ticket_id": "TKT-005-03",
+    "priority": "Low",
+    "status": "Open",
+    "created_date": "2026-06-10",
+    "category": "Performance issue",
+    "summary": "Performance issue reported by customer contact.",
+    "resolution_notes": "Awaiting customer confirmation."
+  },
+  {
+    "customer_id": "CUST-006",
+    "ticket_id": "TKT-006-01",
+    "priority": "Medium",
+    "status": "Pending",
+    "created_date": "2026-07-12",
+    "category": "Billing issue",
+    "summary": "Billing issue reported by customer contact.",
+    "resolution_notes": "Issue addressed and closed."
+  },
+  {
+    "customer_id": "CUST-007",
+    "ticket_id": "TKT-007-01",
+    "priority": "Medium",
+    "status": "Resolved",
+    "created_date": "2026-05-23",
+    "category": "Login issue",
+    "summary": "Login issue reported by customer contact.",
+    "resolution_notes": "Issue addressed and closed."
+  },
+  {
+    "customer_id": "CUST-007",
+    "ticket_id": "TKT-007-02",
+    "priority": "Medium",
+    "status": "Pending",
+    "created_date": "2026-05-11",
+    "category": "Billing issue",
+    "summary": "Billing issue reported by customer contact.",
+    "resolution_notes": "Issue addressed and closed."
+  },
+  {
+    "customer_id": "CUST-008",
+    "ticket_id": "TKT-008-01",
+    "priority": "Medium",
+    "status": "Pending",
+    "created_date": "2026-06-18",
+    "category": "Bug report",
+    "summary": "Bug report reported by customer contact.",
+    "resolution_notes": "Issue addressed and closed."
+  },
+  {
+    "customer_id": "CUST-008",
+    "ticket_id": "TKT-008-02",
+    "priority": "High",
+    "status": "Open",
+    "created_date": "2026-05-08",
+    "category": "Billing issue",
+    "summary": "Billing issue reported by customer contact.",
+    "resolution_notes": "Awaiting customer confirmation."
+  },
+  {
+    "customer_id": "CUST-008",
+    "ticket_id": "TKT-008-03",
+    "priority": "Low",
+    "status": "Resolved",
+    "created_date": "2026-06-08",
+    "category": "Feature request",
+    "summary": "Feature request reported by customer contact.",
+    "resolution_notes": "Issue addressed and closed."
+  },
+  {
+    "customer_id": "CUST-009",
+    "ticket_id": "TKT-009-01",
+    "priority": "High",
+    "status": "Open",
+    "created_date": "2026-05-25",
+    "category": "Billing issue",
+    "summary": "Billing issue reported by customer contact.",
+    "resolution_notes": "Awaiting customer confirmation."
+  },
+  {
+    "customer_id": "CUST-009",
+    "ticket_id": "TKT-009-02",
+    "priority": "Medium",
+    "status": "Open",
+    "created_date": "2026-06-06",
+    "category": "Billing issue",
+    "summary": "Billing issue reported by customer contact.",
+    "resolution_notes": "Awaiting customer confirmation."
+  },
+  {
+    "customer_id": "CUST-009",
+    "ticket_id": "TKT-009-03",
+    "priority": "Medium",
+    "status": "Open",
+    "created_date": "2026-06-20",
+    "category": "Bug report",
+    "summary": "Bug report reported by customer contact.",
+    "resolution_notes": "Awaiting customer confirmation."
+  },
+  {
+    "customer_id": "CUST-009",
+    "ticket_id": "TKT-009-04",
+    "priority": "High",
+    "status": "Open",
+    "created_date": "2026-06-05",
+    "category": "Login issue",
+    "summary": "Login issue reported by customer contact.",
+    "resolution_notes": "Awaiting customer confirmation."
+  },
+  {
+    "customer_id": "CUST-010",
+    "ticket_id": "TKT-010-01",
+    "priority": "Medium",
+    "status": "Pending",
+    "created_date": "2026-04-23",
+    "category": "Performance issue",
+    "summary": "Performance issue reported by customer contact.",
+    "resolution_notes": "Issue addressed and closed."
+  },
+  {
+    "customer_id": "CUST-010",
+    "ticket_id": "TKT-010-02",
+    "priority": "High",
+    "status": "Open",
+    "created_date": "2026-05-13",
+    "category": "Login issue",
+    "summary": "Login issue reported by customer contact.",
+    "resolution_notes": "Awaiting customer confirmation."
+  },
+  {
+    "customer_id": "CUST-010",
+    "ticket_id": "TKT-010-03",
+    "priority": "High",
+    "status": "Open",
+    "created_date": "2026-05-24",
+    "category": "API issue",
+    "summary": "API issue reported by customer contact.",
+    "resolution_notes": "Awaiting customer confirmation."
+  },
+  {
+    "customer_id": "CUST-011",
+    "ticket_id": "TKT-011-01",
+    "priority": "High",
+    "status": "Open",
+    "created_date": "2026-05-02",
+    "category": "Performance issue",
+    "summary": "Performance issue reported by customer contact.",
+    "resolution_notes": "Awaiting customer confirmation."
+  },
+  {
+    "customer_id": "CUST-011",
+    "ticket_id": "TKT-011-02",
+    "priority": "High",
+    "status": "Open",
+    "created_date": "2026-05-06",
+    "category": "Billing issue",
+    "summary": "Billing issue reported by customer contact.",
+    "resolution_notes": "Awaiting customer confirmation."
+  },
+  {
+    "customer_id": "CUST-011",
+    "ticket_id": "TKT-011-03",
+    "priority": "High",
+    "status": "Open",
+    "created_date": "2026-06-25",
+    "category": "Bug report",
+    "summary": "Bug report reported by customer contact.",
+    "resolution_notes": "Awaiting customer confirmation."
+  },
+  {
+    "customer_id": "CUST-012",
+    "ticket_id": "TKT-012-01",
+    "priority": "Medium",
+    "status": "Open",
+    "created_date": "2026-06-14",
+    "category": "API issue",
+    "summary": "API issue reported by customer contact.",
+    "resolution_notes": "Awaiting customer confirmation."
+  },
+  {
+    "customer_id": "CUST-012",
+    "ticket_id": "TKT-012-02",
+    "priority": "Low",
+    "status": "Pending",
+    "created_date": "2026-04-21",
+    "category": "Feature request",
+    "summary": "Feature request reported by customer contact.",
+    "resolution_notes": "Issue addressed and closed."
+  },
+  {
+    "customer_id": "CUST-012",
+    "ticket_id": "TKT-012-03",
+    "priority": "High",
+    "status": "Open",
+    "created_date": "2026-06-08",
+    "category": "API issue",
+    "summary": "API issue reported by customer contact.",
+    "resolution_notes": "Awaiting customer confirmation."
+  },
+  {
+    "customer_id": "CUST-012",
+    "ticket_id": "TKT-012-04",
+    "priority": "High",
+    "status": "Open",
+    "created_date": "2026-05-12",
+    "category": "Billing issue",
+    "summary": "Billing issue reported by customer contact.",
+    "resolution_notes": "Awaiting customer confirmation."
+  },
+  {
+    "customer_id": "CUST-013",
+    "ticket_id": "TKT-013-01",
+    "priority": "Medium",
+    "status": "Resolved",
+    "created_date": "2026-04-30",
+    "category": "Billing issue",
+    "summary": "Billing issue reported by customer contact.",
+    "resolution_notes": "Issue addressed and closed."
+  },
+  {
+    "customer_id": "CUST-013",
+    "ticket_id": "TKT-013-02",
+    "priority": "Low",
+    "status": "Resolved",
+    "created_date": "2026-05-18",
+    "category": "Login issue",
+    "summary": "Login issue reported by customer contact.",
+    "resolution_notes": "Issue addressed and closed."
+  },
+  {
+    "customer_id": "CUST-013",
+    "ticket_id": "TKT-013-03",
+    "priority": "Medium",
+    "status": "Resolved",
+    "created_date": "2026-05-03",
+    "category": "Billing issue",
+    "summary": "Billing issue reported by customer contact.",
+    "resolution_notes": "Issue addressed and closed."
+  },
+  {
+    "customer_id": "CUST-013",
+    "ticket_id": "TKT-013-04",
+    "priority": "Low",
+    "status": "Resolved",
+    "created_date": "2026-04-21",
+    "category": "API issue",
+    "summary": "API issue reported by customer contact.",
+    "resolution_notes": "Issue addressed and closed."
+  },
+  {
+    "customer_id": "CUST-013",
+    "ticket_id": "TKT-013-05",
+    "priority": "Low",
+    "status": "Resolved",
+    "created_date": "2026-05-23",
+    "category": "Bug report",
+    "summary": "Bug report reported by customer contact.",
+    "resolution_notes": "Issue addressed and closed."
+  },
+  {
+    "customer_id": "CUST-014",
+    "ticket_id": "TKT-014-01",
+    "priority": "High",
+    "status": "Open",
+    "created_date": "2026-04-19",
+    "category": "Login issue",
+    "summary": "Login issue reported by customer contact.",
+    "resolution_notes": "Awaiting customer confirmation."
+  },
+  {
+    "customer_id": "CUST-014",
+    "ticket_id": "TKT-014-02",
+    "priority": "High",
+    "status": "Open",
+    "created_date": "2026-06-16",
+    "category": "Performance issue",
+    "summary": "Performance issue reported by customer contact.",
+    "resolution_notes": "Awaiting customer confirmation."
+  },
+  {
+    "customer_id": "CUST-014",
+    "ticket_id": "TKT-014-03",
+    "priority": "Low",
+    "status": "Resolved",
+    "created_date": "2026-04-27",
+    "category": "Bug report",
+    "summary": "Bug report reported by customer contact.",
+    "resolution_notes": "Issue addressed and closed."
+  },
+  {
+    "customer_id": "CUST-015",
+    "ticket_id": "TKT-015-01",
+    "priority": "Medium",
+    "status": "Pending",
+    "created_date": "2026-04-29",
+    "category": "Login issue",
+    "summary": "Login issue reported by customer contact.",
+    "resolution_notes": "Issue addressed and closed."
+  },
+  {
+    "customer_id": "CUST-016",
+    "ticket_id": "TKT-016-01",
+    "priority": "High",
+    "status": "Open",
+    "created_date": "2026-05-22",
+    "category": "Bug report",
+    "summary": "Bug report reported by customer contact.",
+    "resolution_notes": "Awaiting customer confirmation."
+  },
+  {
+    "customer_id": "CUST-016",
+    "ticket_id": "TKT-016-02",
+    "priority": "High",
+    "status": "Open",
+    "created_date": "2026-06-05",
+    "category": "API issue",
+    "summary": "API issue reported by customer contact.",
+    "resolution_notes": "Awaiting customer confirmation."
+  },
+  {
+    "customer_id": "CUST-016",
+    "ticket_id": "TKT-016-03",
+    "priority": "High",
+    "status": "Open",
+    "created_date": "2026-06-21",
+    "category": "API issue",
+    "summary": "API issue reported by customer contact.",
+    "resolution_notes": "Awaiting customer confirmation."
+  },
+  {
+    "customer_id": "CUST-016",
+    "ticket_id": "TKT-016-04",
+    "priority": "High",
+    "status": "Open",
+    "created_date": "2026-07-01",
+    "category": "Performance issue",
+    "summary": "Performance issue reported by customer contact.",
+    "resolution_notes": "Awaiting customer confirmation."
+  },
+  {
+    "customer_id": "CUST-016",
+    "ticket_id": "TKT-016-05",
+    "priority": "Medium",
+    "status": "Resolved",
+    "created_date": "2026-06-20",
+    "category": "Login issue",
+    "summary": "Login issue reported by customer contact.",
+    "resolution_notes": "Issue addressed and closed."
+  },
+  {
+    "customer_id": "CUST-017",
+    "ticket_id": "TKT-017-01",
+    "priority": "Medium",
+    "status": "Resolved",
+    "created_date": "2026-04-23",
+    "category": "Login issue",
+    "summary": "Login issue reported by customer contact.",
+    "resolution_notes": "Issue addressed and closed."
+  },
+  {
+    "customer_id": "CUST-017",
+    "ticket_id": "TKT-017-02",
+    "priority": "High",
+    "status": "Open",
+    "created_date": "2026-05-04",
+    "category": "Login issue",
+    "summary": "Login issue reported by customer contact.",
+    "resolution_notes": "Awaiting customer confirmation."
+  },
+  {
+    "customer_id": "CUST-017",
+    "ticket_id": "TKT-017-03",
+    "priority": "Medium",
+    "status": "Pending",
+    "created_date": "2026-04-27",
+    "category": "Billing issue",
+    "summary": "Billing issue reported by customer contact.",
+    "resolution_notes": "Issue addressed and closed."
+  },
+  {
+    "customer_id": "CUST-018",
+    "ticket_id": "TKT-018-01",
+    "priority": "High",
+    "status": "Open",
+    "created_date": "2026-05-30",
+    "category": "Login issue",
+    "summary": "Login issue reported by customer contact.",
+    "resolution_notes": "Awaiting customer confirmation."
+  },
+  {
+    "customer_id": "CUST-018",
+    "ticket_id": "TKT-018-02",
+    "priority": "High",
+    "status": "Open",
+    "created_date": "2026-05-24",
+    "category": "Performance issue",
+    "summary": "Performance issue reported by customer contact.",
+    "resolution_notes": "Awaiting customer confirmation."
+  },
+  {
+    "customer_id": "CUST-018",
+    "ticket_id": "TKT-018-03",
+    "priority": "High",
+    "status": "Open",
+    "created_date": "2026-05-01",
+    "category": "API issue",
+    "summary": "API issue reported by customer contact.",
+    "resolution_notes": "Awaiting customer confirmation."
+  },
+  {
+    "customer_id": "CUST-018",
+    "ticket_id": "TKT-018-04",
+    "priority": "Medium",
+    "status": "Open",
+    "created_date": "2026-04-26",
+    "category": "Performance issue",
+    "summary": "Performance issue reported by customer contact.",
+    "resolution_notes": "Awaiting customer confirmation."
+  },
+  {
+    "customer_id": "CUST-018",
+    "ticket_id": "TKT-018-05",
+    "priority": "High",
+    "status": "Open",
+    "created_date": "2026-06-25",
+    "category": "Billing issue",
+    "summary": "Billing issue reported by customer contact.",
+    "resolution_notes": "Awaiting customer confirmation."
+  },
+  {
+    "customer_id": "CUST-019",
+    "ticket_id": "TKT-019-01",
+    "priority": "High",
+    "status": "Open",
+    "created_date": "2026-04-14",
+    "category": "Bug report",
+    "summary": "Bug report reported by customer contact.",
+    "resolution_notes": "Awaiting customer confirmation."
+  },
+  {
+    "customer_id": "CUST-019",
+    "ticket_id": "TKT-019-02",
+    "priority": "High",
+    "status": "Open",
+    "created_date": "2026-04-17",
+    "category": "Bug report",
+    "summary": "Bug report reported by customer contact.",
+    "resolution_notes": "Awaiting customer confirmation."
+  },
+  {
+    "customer_id": "CUST-019",
+    "ticket_id": "TKT-019-03",
+    "priority": "High",
+    "status": "Open",
+    "created_date": "2026-04-30",
+    "category": "Feature request",
+    "summary": "Feature request reported by customer contact.",
+    "resolution_notes": "Awaiting customer confirmation."
+  },
+  {
+    "customer_id": "CUST-019",
+    "ticket_id": "TKT-019-04",
+    "priority": "Medium",
+    "status": "Pending",
+    "created_date": "2026-05-09",
+    "category": "Bug report",
+    "summary": "Bug report reported by customer contact.",
+    "resolution_notes": "Issue addressed and closed."
+  }
+]

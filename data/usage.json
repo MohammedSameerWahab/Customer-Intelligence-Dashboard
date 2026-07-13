@@ -1,0 +1,222 @@
+[
+  {
+    "customer_id": "CUST-001",
+    "active_users": 128,
+    "logins": 544,
+    "feature_usage": 701,
+    "storage_used": 90,
+    "projects_created": 20,
+    "api_calls": 4479,
+    "last_login": "2026-06-04",
+    "usage_trend": "Growing"
+  },
+  {
+    "customer_id": "CUST-002",
+    "active_users": 6,
+    "logins": 37,
+    "feature_usage": 663,
+    "storage_used": 162,
+    "projects_created": 20,
+    "api_calls": 385,
+    "last_login": "2026-07-09",
+    "usage_trend": "Declining"
+  },
+  {
+    "customer_id": "CUST-003",
+    "active_users": 41,
+    "logins": 110,
+    "feature_usage": 322,
+    "storage_used": 282,
+    "projects_created": 80,
+    "api_calls": 15410,
+    "last_login": "2026-06-11",
+    "usage_trend": "Stable"
+  },
+  {
+    "customer_id": "CUST-004",
+    "active_users": 12,
+    "logins": 212,
+    "feature_usage": 316,
+    "storage_used": 103,
+    "projects_created": 71,
+    "api_calls": 1220,
+    "last_login": "2026-07-05",
+    "usage_trend": "Declining"
+  },
+  {
+    "customer_id": "CUST-005",
+    "active_users": 127,
+    "logins": 630,
+    "feature_usage": 613,
+    "storage_used": 337,
+    "projects_created": 8,
+    "api_calls": 1914,
+    "last_login": "2026-06-14",
+    "usage_trend": "Growing"
+  },
+  {
+    "customer_id": "CUST-006",
+    "active_users": 42,
+    "logins": 180,
+    "feature_usage": 225,
+    "storage_used": 235,
+    "projects_created": 28,
+    "api_calls": 10118,
+    "last_login": "2026-07-01",
+    "usage_trend": "Stable"
+  },
+  {
+    "customer_id": "CUST-007",
+    "active_users": 2,
+    "logins": 31,
+    "feature_usage": 21,
+    "storage_used": 163,
+    "projects_created": 56,
+    "api_calls": 16233,
+    "last_login": "2026-04-05",
+    "usage_trend": "Inactive"
+  },
+  {
+    "customer_id": "CUST-008",
+    "active_users": 175,
+    "logins": 542,
+    "feature_usage": 479,
+    "storage_used": 338,
+    "projects_created": 102,
+    "api_calls": 11256,
+    "last_login": "2026-06-14",
+    "usage_trend": "Growing"
+  },
+  {
+    "customer_id": "CUST-009",
+    "active_users": 6,
+    "logins": 20,
+    "feature_usage": 461,
+    "storage_used": 501,
+    "projects_created": 45,
+    "api_calls": 4623,
+    "last_login": "2026-06-13",
+    "usage_trend": "Declining"
+  },
+  {
+    "customer_id": "CUST-010",
+    "active_users": 149,
+    "logins": 399,
+    "feature_usage": 270,
+    "storage_used": 366,
+    "projects_created": 54,
+    "api_calls": 12467,
+    "last_login": "2026-06-30",
+    "usage_trend": "Stable"
+  },
+  {
+    "customer_id": "CUST-011",
+    "active_users": 25,
+    "logins": 166,
+    "feature_usage": 351,
+    "storage_used": 253,
+    "projects_created": 95,
+    "api_calls": 10001,
+    "last_login": "2026-06-12",
+    "usage_trend": "Declining"
+  },
+  {
+    "customer_id": "CUST-012",
+    "active_users": 275,
+    "logins": 404,
+    "feature_usage": 1150,
+    "storage_used": 310,
+    "projects_created": 91,
+    "api_calls": 607,
+    "last_login": "2026-07-05",
+    "usage_trend": "Growing"
+  },
+  {
+    "customer_id": "CUST-013",
+    "active_users": 81,
+    "logins": 288,
+    "feature_usage": 595,
+    "storage_used": 494,
+    "projects_created": 58,
+    "api_calls": 13122,
+    "last_login": "2026-07-04",
+    "usage_trend": "Stable"
+  },
+  {
+    "customer_id": "CUST-014",
+    "active_users": 5,
+    "logins": 34,
+    "feature_usage": 22,
+    "storage_used": 197,
+    "projects_created": 108,
+    "api_calls": 3762,
+    "last_login": "2026-05-23",
+    "usage_trend": "Inactive"
+  },
+  {
+    "customer_id": "CUST-015",
+    "active_users": 245,
+    "logins": 577,
+    "feature_usage": 415,
+    "storage_used": 36,
+    "projects_created": 87,
+    "api_calls": 6886,
+    "last_login": "2026-06-07",
+    "usage_trend": "Growing"
+  },
+  {
+    "customer_id": "CUST-016",
+    "active_users": 6,
+    "logins": 38,
+    "feature_usage": 99,
+    "storage_used": 388,
+    "projects_created": 85,
+    "api_calls": 381,
+    "last_login": "2026-06-16",
+    "usage_trend": "Declining"
+  },
+  {
+    "customer_id": "CUST-017",
+    "active_users": 167,
+    "logins": 447,
+    "feature_usage": 753,
+    "storage_used": 396,
+    "projects_created": 66,
+    "api_calls": 17125,
+    "last_login": "2026-06-05",
+    "usage_trend": "Stable"
+  },
+  {
+    "customer_id": "CUST-018",
+    "active_users": 44,
+    "logins": 398,
+    "feature_usage": 370,
+    "storage_used": 378,
+    "projects_created": 24,
+    "api_calls": 13132,
+    "last_login": "2026-06-19",
+    "usage_trend": "Declining"
+  },
+  {
+    "customer_id": "CUST-019",
+    "active_users": 231,
+    "logins": 403,
+    "feature_usage": 539,
+    "storage_used": 464,
+    "projects_created": 65,
+    "api_calls": 12558,
+    "last_login": "2026-06-30",
+    "usage_trend": "Growing"
+  },
+  {
+    "customer_id": "CUST-020",
+    "active_users": 66,
+    "logins": 295,
+    "feature_usage": 367,
+    "storage_used": 123,
+    "projects_created": 52,
+    "api_calls": 7401,
+    "last_login": "2026-06-05",
+    "usage_trend": "Stable"
+  }
+]

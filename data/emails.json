@@ -1,0 +1,858 @@
+[
+  {
+    "customer_id": "CUST-001",
+    "date": "2026-04-29",
+    "subject": "Support follow-up",
+    "sender": "kevinlam@example.com",
+    "body": "The team at Brown-Molina is very happy with the onboarding experience and wants more product training.",
+    "sentiment": "Positive"
+  },
+  {
+    "customer_id": "CUST-001",
+    "date": "2026-05-25",
+    "subject": "Billing concern",
+    "sender": "michaeltaylor@example.net",
+    "body": "Thank you for the support on our rollout. The dashboard reports are already saving our team time.",
+    "sentiment": "Positive"
+  },
+  {
+    "customer_id": "CUST-001",
+    "date": "2026-03-29",
+    "subject": "Pricing follow-up",
+    "sender": "andersonsummer@example.com",
+    "body": "Our internal team is still evaluating whether to expand into more regions.",
+    "sentiment": "Neutral"
+  },
+  {
+    "customer_id": "CUST-002",
+    "date": "2026-07-08",
+    "subject": "Support follow-up",
+    "sender": "solomonkatrina@example.com",
+    "body": "Several support tickets remain open and our team is frustrated with response times.",
+    "sentiment": "Negative"
+  },
+  {
+    "customer_id": "CUST-002",
+    "date": "2026-04-21",
+    "subject": "Billing concern",
+    "sender": "kathryn66@example.net",
+    "body": "We are reviewing the current usage and may discuss additional seats during the next planning meeting.",
+    "sentiment": "Neutral"
+  },
+  {
+    "customer_id": "CUST-002",
+    "date": "2026-04-07",
+    "subject": "Pricing follow-up",
+    "sender": "aliciawest@example.org",
+    "body": "Our internal team is still evaluating whether to expand into more regions.",
+    "sentiment": "Neutral"
+  },
+  {
+    "customer_id": "CUST-002",
+    "date": "2026-03-23",
+    "subject": "Pricing follow-up",
+    "sender": "david25@example.net",
+    "body": "We have ongoing concerns about billing accuracy and need clearer visibility into our account status.",
+    "sentiment": "Negative"
+  },
+  {
+    "customer_id": "CUST-002",
+    "date": "2026-05-14",
+    "subject": "Pricing follow-up",
+    "sender": "danieltucker@example.com",
+    "body": "We are reviewing the current usage and may discuss additional seats during the next planning meeting.",
+    "sentiment": "Neutral"
+  },
+  {
+    "customer_id": "CUST-003",
+    "date": "2026-05-12",
+    "subject": "Billing concern",
+    "sender": "tamaragonzalez@example.com",
+    "body": "Our internal team is still evaluating whether to expand into more regions.",
+    "sentiment": "Neutral"
+  },
+  {
+    "customer_id": "CUST-003",
+    "date": "2026-06-10",
+    "subject": "Usage review",
+    "sender": "chunter@example.org",
+    "body": "We have ongoing concerns about billing accuracy and need clearer visibility into our account status.",
+    "sentiment": "Negative"
+  },
+  {
+    "customer_id": "CUST-003",
+    "date": "2026-05-26",
+    "subject": "Renewal discussion",
+    "sender": "teresaclark@example.com",
+    "body": "We are reviewing the current usage and may discuss additional seats during the next planning meeting.",
+    "sentiment": "Neutral"
+  },
+  {
+    "customer_id": "CUST-003",
+    "date": "2026-04-01",
+    "subject": "Billing concern",
+    "sender": "mwest@example.org",
+    "body": "Our internal team is still evaluating whether to expand into more regions.",
+    "sentiment": "Neutral"
+  },
+  {
+    "customer_id": "CUST-003",
+    "date": "2026-03-28",
+    "subject": "Renewal discussion",
+    "sender": "jacobdavis@example.org",
+    "body": "We have ongoing concerns about billing accuracy and need clearer visibility into our account status.",
+    "sentiment": "Negative"
+  },
+  {
+    "customer_id": "CUST-003",
+    "date": "2026-04-11",
+    "subject": "Support follow-up",
+    "sender": "donnaobrien@example.net",
+    "body": "Our internal team is still evaluating whether to expand into more regions.",
+    "sentiment": "Neutral"
+  },
+  {
+    "customer_id": "CUST-003",
+    "date": "2026-03-19",
+    "subject": "Pricing follow-up",
+    "sender": "steventhornton@example.com",
+    "body": "Our internal team is still evaluating whether to expand into more regions.",
+    "sentiment": "Neutral"
+  },
+  {
+    "customer_id": "CUST-003",
+    "date": "2026-03-17",
+    "subject": "Positive feedback",
+    "sender": "jonesdouglas@example.net",
+    "body": "We have ongoing concerns about billing accuracy and need clearer visibility into our account status.",
+    "sentiment": "Negative"
+  },
+  {
+    "customer_id": "CUST-004",
+    "date": "2026-05-10",
+    "subject": "Billing concern",
+    "sender": "ybrown@example.net",
+    "body": "Several support tickets remain open and our team is frustrated with response times.",
+    "sentiment": "Negative"
+  },
+  {
+    "customer_id": "CUST-004",
+    "date": "2026-05-21",
+    "subject": "Pricing follow-up",
+    "sender": "tsims@example.com",
+    "body": "Our internal team is still evaluating whether to expand into more regions.",
+    "sentiment": "Neutral"
+  },
+  {
+    "customer_id": "CUST-004",
+    "date": "2026-03-18",
+    "subject": "Usage review",
+    "sender": "kimberlyrichardson@example.net",
+    "body": "We have ongoing concerns about billing accuracy and need clearer visibility into our account status.",
+    "sentiment": "Negative"
+  },
+  {
+    "customer_id": "CUST-004",
+    "date": "2026-03-31",
+    "subject": "Usage review",
+    "sender": "danielle91@example.org",
+    "body": "Several support tickets remain open and our team is frustrated with response times.",
+    "sentiment": "Negative"
+  },
+  {
+    "customer_id": "CUST-004",
+    "date": "2026-06-16",
+    "subject": "Billing concern",
+    "sender": "yprice@example.net",
+    "body": "We are reviewing the current usage and may discuss additional seats during the next planning meeting.",
+    "sentiment": "Neutral"
+  },
+  {
+    "customer_id": "CUST-004",
+    "date": "2026-07-03",
+    "subject": "Renewal discussion",
+    "sender": "ctorres@example.net",
+    "body": "We have ongoing concerns about billing accuracy and need clearer visibility into our account status.",
+    "sentiment": "Negative"
+  },
+  {
+    "customer_id": "CUST-004",
+    "date": "2026-06-23",
+    "subject": "Usage review",
+    "sender": "kwilliams@example.org",
+    "body": "Several support tickets remain open and our team is frustrated with response times.",
+    "sentiment": "Negative"
+  },
+  {
+    "customer_id": "CUST-004",
+    "date": "2026-07-09",
+    "subject": "Billing concern",
+    "sender": "michael14@example.net",
+    "body": "Our internal team is still evaluating whether to expand into more regions.",
+    "sentiment": "Neutral"
+  },
+  {
+    "customer_id": "CUST-005",
+    "date": "2026-07-09",
+    "subject": "Positive feedback",
+    "sender": "thompsoncynthia@example.com",
+    "body": "The team at Sims Inc is very happy with the onboarding experience and wants more product training.",
+    "sentiment": "Positive"
+  },
+  {
+    "customer_id": "CUST-005",
+    "date": "2026-03-25",
+    "subject": "Positive feedback",
+    "sender": "rebeccasavage@example.org",
+    "body": "Thank you for the support on our rollout. The dashboard reports are already saving our team time.",
+    "sentiment": "Positive"
+  },
+  {
+    "customer_id": "CUST-005",
+    "date": "2026-06-10",
+    "subject": "Support follow-up",
+    "sender": "ddavis@example.net",
+    "body": "Our internal team is still evaluating whether to expand into more regions.",
+    "sentiment": "Neutral"
+  },
+  {
+    "customer_id": "CUST-006",
+    "date": "2026-03-31",
+    "subject": "Support follow-up",
+    "sender": "barryrangel@example.net",
+    "body": "The team at Black, Tate and Smith is very happy with the onboarding experience and wants more product training.",
+    "sentiment": "Positive"
+  },
+  {
+    "customer_id": "CUST-006",
+    "date": "2026-05-10",
+    "subject": "Renewal discussion",
+    "sender": "jenniferbrock@example.net",
+    "body": "We are reviewing the current usage and may discuss additional seats during the next planning meeting.",
+    "sentiment": "Neutral"
+  },
+  {
+    "customer_id": "CUST-006",
+    "date": "2026-05-02",
+    "subject": "Positive feedback",
+    "sender": "shanetate@example.net",
+    "body": "The team at Black, Tate and Smith is very happy with the onboarding experience and wants more product training.",
+    "sentiment": "Positive"
+  },
+  {
+    "customer_id": "CUST-006",
+    "date": "2026-05-18",
+    "subject": "Pricing follow-up",
+    "sender": "williamsonkenneth@example.org",
+    "body": "Thank you for the support on our rollout. The dashboard reports are already saving our team time.",
+    "sentiment": "Positive"
+  },
+  {
+    "customer_id": "CUST-006",
+    "date": "2026-04-08",
+    "subject": "Renewal discussion",
+    "sender": "carrie00@example.com",
+    "body": "Our internal team is still evaluating whether to expand into more regions.",
+    "sentiment": "Neutral"
+  },
+  {
+    "customer_id": "CUST-007",
+    "date": "2026-04-29",
+    "subject": "Usage review",
+    "sender": "hillshirley@example.com",
+    "body": "Our internal team is still evaluating whether to expand into more regions.",
+    "sentiment": "Neutral"
+  },
+  {
+    "customer_id": "CUST-007",
+    "date": "2026-03-30",
+    "subject": "Feature request",
+    "sender": "sara19@example.com",
+    "body": "We have ongoing concerns about billing accuracy and need clearer visibility into our account status.",
+    "sentiment": "Negative"
+  },
+  {
+    "customer_id": "CUST-007",
+    "date": "2026-03-16",
+    "subject": "Renewal discussion",
+    "sender": "kcarter@example.net",
+    "body": "We are reviewing the current usage and may discuss additional seats during the next planning meeting.",
+    "sentiment": "Neutral"
+  },
+  {
+    "customer_id": "CUST-007",
+    "date": "2026-05-23",
+    "subject": "Billing concern",
+    "sender": "williamsryan@example.com",
+    "body": "Our internal team is still evaluating whether to expand into more regions.",
+    "sentiment": "Neutral"
+  },
+  {
+    "customer_id": "CUST-007",
+    "date": "2026-04-05",
+    "subject": "Pricing follow-up",
+    "sender": "devans@example.org",
+    "body": "Several support tickets remain open and our team is frustrated with response times.",
+    "sentiment": "Negative"
+  },
+  {
+    "customer_id": "CUST-007",
+    "date": "2026-06-22",
+    "subject": "Billing concern",
+    "sender": "lisagarza@example.net",
+    "body": "We are reviewing the current usage and may discuss additional seats during the next planning meeting.",
+    "sentiment": "Neutral"
+  },
+  {
+    "customer_id": "CUST-008",
+    "date": "2026-03-19",
+    "subject": "Support follow-up",
+    "sender": "garciadavid@example.net",
+    "body": "Thank you for the support on our rollout. The dashboard reports are already saving our team time.",
+    "sentiment": "Positive"
+  },
+  {
+    "customer_id": "CUST-008",
+    "date": "2026-05-26",
+    "subject": "Usage review",
+    "sender": "jamie82@example.org",
+    "body": "Thank you for the support on our rollout. The dashboard reports are already saving our team time.",
+    "sentiment": "Positive"
+  },
+  {
+    "customer_id": "CUST-008",
+    "date": "2026-05-03",
+    "subject": "Renewal discussion",
+    "sender": "michael98@example.org",
+    "body": "We are reviewing the current usage and may discuss additional seats during the next planning meeting.",
+    "sentiment": "Neutral"
+  },
+  {
+    "customer_id": "CUST-008",
+    "date": "2026-05-08",
+    "subject": "Billing concern",
+    "sender": "michaelcurry@example.org",
+    "body": "Thank you for the support on our rollout. The dashboard reports are already saving our team time.",
+    "sentiment": "Positive"
+  },
+  {
+    "customer_id": "CUST-008",
+    "date": "2026-06-11",
+    "subject": "Usage review",
+    "sender": "colton06@example.net",
+    "body": "Thank you for the support on our rollout. The dashboard reports are already saving our team time.",
+    "sentiment": "Positive"
+  },
+  {
+    "customer_id": "CUST-008",
+    "date": "2026-06-16",
+    "subject": "Usage review",
+    "sender": "victoriachurch@example.org",
+    "body": "Our internal team is still evaluating whether to expand into more regions.",
+    "sentiment": "Neutral"
+  },
+  {
+    "customer_id": "CUST-008",
+    "date": "2026-06-06",
+    "subject": "Billing concern",
+    "sender": "higginswanda@example.com",
+    "body": "The team at Ramirez Group is very happy with the onboarding experience and wants more product training.",
+    "sentiment": "Positive"
+  },
+  {
+    "customer_id": "CUST-008",
+    "date": "2026-07-09",
+    "subject": "Pricing follow-up",
+    "sender": "bakerantonio@example.com",
+    "body": "Thank you for the support on our rollout. The dashboard reports are already saving our team time.",
+    "sentiment": "Positive"
+  },
+  {
+    "customer_id": "CUST-009",
+    "date": "2026-05-22",
+    "subject": "Billing concern",
+    "sender": "wadams@example.net",
+    "body": "We have ongoing concerns about billing accuracy and need clearer visibility into our account status.",
+    "sentiment": "Negative"
+  },
+  {
+    "customer_id": "CUST-009",
+    "date": "2026-05-15",
+    "subject": "Positive feedback",
+    "sender": "michellereed@example.org",
+    "body": "We are reviewing the current usage and may discuss additional seats during the next planning meeting.",
+    "sentiment": "Neutral"
+  },
+  {
+    "customer_id": "CUST-009",
+    "date": "2026-06-23",
+    "subject": "Usage review",
+    "sender": "sarah31@example.org",
+    "body": "Our internal team is still evaluating whether to expand into more regions.",
+    "sentiment": "Neutral"
+  },
+  {
+    "customer_id": "CUST-009",
+    "date": "2026-05-11",
+    "subject": "Pricing follow-up",
+    "sender": "felicia01@example.net",
+    "body": "We have ongoing concerns about billing accuracy and need clearer visibility into our account status.",
+    "sentiment": "Negative"
+  },
+  {
+    "customer_id": "CUST-009",
+    "date": "2026-05-13",
+    "subject": "Support follow-up",
+    "sender": "wrandall@example.com",
+    "body": "Our internal team is still evaluating whether to expand into more regions.",
+    "sentiment": "Neutral"
+  },
+  {
+    "customer_id": "CUST-009",
+    "date": "2026-07-11",
+    "subject": "Positive feedback",
+    "sender": "ijackson@example.net",
+    "body": "Our internal team is still evaluating whether to expand into more regions.",
+    "sentiment": "Neutral"
+  },
+  {
+    "customer_id": "CUST-010",
+    "date": "2026-07-02",
+    "subject": "Usage review",
+    "sender": "hendersonchristina@example.org",
+    "body": "Our internal team is still evaluating whether to expand into more regions.",
+    "sentiment": "Neutral"
+  },
+  {
+    "customer_id": "CUST-010",
+    "date": "2026-05-05",
+    "subject": "Pricing follow-up",
+    "sender": "scottharmon@example.org",
+    "body": "We have ongoing concerns about billing accuracy and need clearer visibility into our account status.",
+    "sentiment": "Negative"
+  },
+  {
+    "customer_id": "CUST-010",
+    "date": "2026-03-27",
+    "subject": "Support follow-up",
+    "sender": "heidi39@example.net",
+    "body": "We are reviewing the current usage and may discuss additional seats during the next planning meeting.",
+    "sentiment": "Neutral"
+  },
+  {
+    "customer_id": "CUST-010",
+    "date": "2026-05-14",
+    "subject": "Feature request",
+    "sender": "calvin30@example.org",
+    "body": "We are reviewing the current usage and may discuss additional seats during the next planning meeting.",
+    "sentiment": "Neutral"
+  },
+  {
+    "customer_id": "CUST-011",
+    "date": "2026-06-23",
+    "subject": "Pricing follow-up",
+    "sender": "parkernatalie@example.org",
+    "body": "Several support tickets remain open and our team is frustrated with response times.",
+    "sentiment": "Negative"
+  },
+  {
+    "customer_id": "CUST-011",
+    "date": "2026-07-08",
+    "subject": "Usage review",
+    "sender": "pmiller@example.net",
+    "body": "We are reviewing the current usage and may discuss additional seats during the next planning meeting.",
+    "sentiment": "Neutral"
+  },
+  {
+    "customer_id": "CUST-011",
+    "date": "2026-06-24",
+    "subject": "Positive feedback",
+    "sender": "gabriellahogan@example.com",
+    "body": "We have ongoing concerns about billing accuracy and need clearer visibility into our account status.",
+    "sentiment": "Negative"
+  },
+  {
+    "customer_id": "CUST-011",
+    "date": "2026-06-30",
+    "subject": "Pricing follow-up",
+    "sender": "holly77@example.net",
+    "body": "We have ongoing concerns about billing accuracy and need clearer visibility into our account status.",
+    "sentiment": "Negative"
+  },
+  {
+    "customer_id": "CUST-011",
+    "date": "2026-07-10",
+    "subject": "Usage review",
+    "sender": "tara02@example.org",
+    "body": "We are reviewing the current usage and may discuss additional seats during the next planning meeting.",
+    "sentiment": "Neutral"
+  },
+  {
+    "customer_id": "CUST-011",
+    "date": "2026-05-12",
+    "subject": "Billing concern",
+    "sender": "bradshawstacy@example.org",
+    "body": "Several support tickets remain open and our team is frustrated with response times.",
+    "sentiment": "Negative"
+  },
+  {
+    "customer_id": "CUST-011",
+    "date": "2026-06-27",
+    "subject": "Billing concern",
+    "sender": "ksavage@example.com",
+    "body": "We have ongoing concerns about billing accuracy and need clearer visibility into our account status.",
+    "sentiment": "Negative"
+  },
+  {
+    "customer_id": "CUST-011",
+    "date": "2026-07-06",
+    "subject": "Positive feedback",
+    "sender": "gonzalezcarolyn@example.org",
+    "body": "We are reviewing the current usage and may discuss additional seats during the next planning meeting.",
+    "sentiment": "Neutral"
+  },
+  {
+    "customer_id": "CUST-012",
+    "date": "2026-04-25",
+    "subject": "Pricing follow-up",
+    "sender": "kimberly49@example.net",
+    "body": "The team at Wood, Tate and Perez is very happy with the onboarding experience and wants more product training.",
+    "sentiment": "Positive"
+  },
+  {
+    "customer_id": "CUST-012",
+    "date": "2026-04-23",
+    "subject": "Feature request",
+    "sender": "travisgrant@example.org",
+    "body": "The team at Wood, Tate and Perez is very happy with the onboarding experience and wants more product training.",
+    "sentiment": "Positive"
+  },
+  {
+    "customer_id": "CUST-012",
+    "date": "2026-04-03",
+    "subject": "Pricing follow-up",
+    "sender": "juarezmichael@example.org",
+    "body": "We are reviewing the current usage and may discuss additional seats during the next planning meeting.",
+    "sentiment": "Neutral"
+  },
+  {
+    "customer_id": "CUST-012",
+    "date": "2026-06-06",
+    "subject": "Billing concern",
+    "sender": "johnnybauer@example.net",
+    "body": "The team at Wood, Tate and Perez is very happy with the onboarding experience and wants more product training.",
+    "sentiment": "Positive"
+  },
+  {
+    "customer_id": "CUST-013",
+    "date": "2026-06-27",
+    "subject": "Usage review",
+    "sender": "alyssathomas@example.org",
+    "body": "The team at Murray-Walker is very happy with the onboarding experience and wants more product training.",
+    "sentiment": "Positive"
+  },
+  {
+    "customer_id": "CUST-013",
+    "date": "2026-06-05",
+    "subject": "Usage review",
+    "sender": "whitneycummings@example.com",
+    "body": "Our internal team is still evaluating whether to expand into more regions.",
+    "sentiment": "Neutral"
+  },
+  {
+    "customer_id": "CUST-013",
+    "date": "2026-06-24",
+    "subject": "Feature request",
+    "sender": "kristen08@example.org",
+    "body": "Thank you for the support on our rollout. The dashboard reports are already saving our team time.",
+    "sentiment": "Positive"
+  },
+  {
+    "customer_id": "CUST-014",
+    "date": "2026-05-30",
+    "subject": "Support follow-up",
+    "sender": "mistyclarke@example.org",
+    "body": "We are reviewing the current usage and may discuss additional seats during the next planning meeting.",
+    "sentiment": "Neutral"
+  },
+  {
+    "customer_id": "CUST-014",
+    "date": "2026-05-13",
+    "subject": "Support follow-up",
+    "sender": "michellebarajas@example.net",
+    "body": "Several support tickets remain open and our team is frustrated with response times.",
+    "sentiment": "Negative"
+  },
+  {
+    "customer_id": "CUST-014",
+    "date": "2026-06-07",
+    "subject": "Usage review",
+    "sender": "michael25@example.org",
+    "body": "Our internal team is still evaluating whether to expand into more regions.",
+    "sentiment": "Neutral"
+  },
+  {
+    "customer_id": "CUST-014",
+    "date": "2026-07-03",
+    "subject": "Feature request",
+    "sender": "ochandler@example.net",
+    "body": "We are reviewing the current usage and may discuss additional seats during the next planning meeting.",
+    "sentiment": "Neutral"
+  },
+  {
+    "customer_id": "CUST-014",
+    "date": "2026-06-14",
+    "subject": "Pricing follow-up",
+    "sender": "jenniferharper@example.net",
+    "body": "We have ongoing concerns about billing accuracy and need clearer visibility into our account status.",
+    "sentiment": "Negative"
+  },
+  {
+    "customer_id": "CUST-014",
+    "date": "2026-03-28",
+    "subject": "Renewal discussion",
+    "sender": "omendoza@example.net",
+    "body": "Our internal team is still evaluating whether to expand into more regions.",
+    "sentiment": "Neutral"
+  },
+  {
+    "customer_id": "CUST-014",
+    "date": "2026-04-23",
+    "subject": "Positive feedback",
+    "sender": "sharptiffany@example.com",
+    "body": "Our internal team is still evaluating whether to expand into more regions.",
+    "sentiment": "Neutral"
+  },
+  {
+    "customer_id": "CUST-014",
+    "date": "2026-04-14",
+    "subject": "Support follow-up",
+    "sender": "hammondchase@example.net",
+    "body": "Several support tickets remain open and our team is frustrated with response times.",
+    "sentiment": "Negative"
+  },
+  {
+    "customer_id": "CUST-015",
+    "date": "2026-05-21",
+    "subject": "Pricing follow-up",
+    "sender": "pthomas@example.org",
+    "body": "Thank you for the support on our rollout. The dashboard reports are already saving our team time.",
+    "sentiment": "Positive"
+  },
+  {
+    "customer_id": "CUST-015",
+    "date": "2026-04-09",
+    "subject": "Billing concern",
+    "sender": "scott72@example.org",
+    "body": "The team at Lamb, Schwartz and Jones is very happy with the onboarding experience and wants more product training.",
+    "sentiment": "Positive"
+  },
+  {
+    "customer_id": "CUST-015",
+    "date": "2026-05-13",
+    "subject": "Pricing follow-up",
+    "sender": "conniecook@example.com",
+    "body": "Our internal team is still evaluating whether to expand into more regions.",
+    "sentiment": "Neutral"
+  },
+  {
+    "customer_id": "CUST-015",
+    "date": "2026-04-18",
+    "subject": "Positive feedback",
+    "sender": "ivancarter@example.com",
+    "body": "Thank you for the support on our rollout. The dashboard reports are already saving our team time.",
+    "sentiment": "Positive"
+  },
+  {
+    "customer_id": "CUST-015",
+    "date": "2026-05-06",
+    "subject": "Renewal discussion",
+    "sender": "twalters@example.org",
+    "body": "The team at Lamb, Schwartz and Jones is very happy with the onboarding experience and wants more product training.",
+    "sentiment": "Positive"
+  },
+  {
+    "customer_id": "CUST-016",
+    "date": "2026-06-04",
+    "subject": "Positive feedback",
+    "sender": "davidrubio@example.org",
+    "body": "We have ongoing concerns about billing accuracy and need clearer visibility into our account status.",
+    "sentiment": "Negative"
+  },
+  {
+    "customer_id": "CUST-016",
+    "date": "2026-05-28",
+    "subject": "Renewal discussion",
+    "sender": "cooperryan@example.net",
+    "body": "Our internal team is still evaluating whether to expand into more regions.",
+    "sentiment": "Neutral"
+  },
+  {
+    "customer_id": "CUST-016",
+    "date": "2026-05-31",
+    "subject": "Billing concern",
+    "sender": "jonathan67@example.org",
+    "body": "Our internal team is still evaluating whether to expand into more regions.",
+    "sentiment": "Neutral"
+  },
+  {
+    "customer_id": "CUST-016",
+    "date": "2026-06-15",
+    "subject": "Pricing follow-up",
+    "sender": "kaitlyn58@example.com",
+    "body": "Several support tickets remain open and our team is frustrated with response times.",
+    "sentiment": "Negative"
+  },
+  {
+    "customer_id": "CUST-016",
+    "date": "2026-04-12",
+    "subject": "Feature request",
+    "sender": "michael49@example.net",
+    "body": "Our internal team is still evaluating whether to expand into more regions.",
+    "sentiment": "Neutral"
+  },
+  {
+    "customer_id": "CUST-016",
+    "date": "2026-04-23",
+    "subject": "Billing concern",
+    "sender": "kristenpatterson@example.org",
+    "body": "We are reviewing the current usage and may discuss additional seats during the next planning meeting.",
+    "sentiment": "Neutral"
+  },
+  {
+    "customer_id": "CUST-016",
+    "date": "2026-06-03",
+    "subject": "Feature request",
+    "sender": "goodmanwilliam@example.org",
+    "body": "We have ongoing concerns about billing accuracy and need clearer visibility into our account status.",
+    "sentiment": "Negative"
+  },
+  {
+    "customer_id": "CUST-016",
+    "date": "2026-06-01",
+    "subject": "Feature request",
+    "sender": "dylanshaffer@example.net",
+    "body": "Our internal team is still evaluating whether to expand into more regions.",
+    "sentiment": "Neutral"
+  },
+  {
+    "customer_id": "CUST-017",
+    "date": "2026-06-09",
+    "subject": "Pricing follow-up",
+    "sender": "oneillrichard@example.com",
+    "body": "Our internal team is still evaluating whether to expand into more regions.",
+    "sentiment": "Neutral"
+  },
+  {
+    "customer_id": "CUST-017",
+    "date": "2026-04-28",
+    "subject": "Positive feedback",
+    "sender": "rodriguezjames@example.org",
+    "body": "Several support tickets remain open and our team is frustrated with response times.",
+    "sentiment": "Negative"
+  },
+  {
+    "customer_id": "CUST-017",
+    "date": "2026-07-04",
+    "subject": "Pricing follow-up",
+    "sender": "earlmcintyre@example.com",
+    "body": "Our internal team is still evaluating whether to expand into more regions.",
+    "sentiment": "Neutral"
+  },
+  {
+    "customer_id": "CUST-018",
+    "date": "2026-04-24",
+    "subject": "Pricing follow-up",
+    "sender": "laurenhoffman@example.com",
+    "body": "We have ongoing concerns about billing accuracy and need clearer visibility into our account status.",
+    "sentiment": "Negative"
+  },
+  {
+    "customer_id": "CUST-018",
+    "date": "2026-06-27",
+    "subject": "Billing concern",
+    "sender": "nathanwalker@example.net",
+    "body": "Our internal team is still evaluating whether to expand into more regions.",
+    "sentiment": "Neutral"
+  },
+  {
+    "customer_id": "CUST-018",
+    "date": "2026-03-23",
+    "subject": "Pricing follow-up",
+    "sender": "michael02@example.com",
+    "body": "Several support tickets remain open and our team is frustrated with response times.",
+    "sentiment": "Negative"
+  },
+  {
+    "customer_id": "CUST-019",
+    "date": "2026-06-01",
+    "subject": "Support follow-up",
+    "sender": "dmunoz@example.com",
+    "body": "Thank you for the support on our rollout. The dashboard reports are already saving our team time.",
+    "sentiment": "Positive"
+  },
+  {
+    "customer_id": "CUST-019",
+    "date": "2026-04-26",
+    "subject": "Usage review",
+    "sender": "beckwilliam@example.com",
+    "body": "Thank you for the support on our rollout. The dashboard reports are already saving our team time.",
+    "sentiment": "Positive"
+  },
+  {
+    "customer_id": "CUST-019",
+    "date": "2026-06-27",
+    "subject": "Billing concern",
+    "sender": "judith82@example.org",
+    "body": "We are reviewing the current usage and may discuss additional seats during the next planning meeting.",
+    "sentiment": "Neutral"
+  },
+  {
+    "customer_id": "CUST-019",
+    "date": "2026-05-31",
+    "subject": "Support follow-up",
+    "sender": "judithwise@example.org",
+    "body": "The team at Keller-Perez is very happy with the onboarding experience and wants more product training.",
+    "sentiment": "Positive"
+  },
+  {
+    "customer_id": "CUST-020",
+    "date": "2026-03-27",
+    "subject": "Billing concern",
+    "sender": "justinwilson@example.com",
+    "body": "The team at Black, Powers and Cannon is very happy with the onboarding experience and wants more product training.",
+    "sentiment": "Positive"
+  },
+  {
+    "customer_id": "CUST-020",
+    "date": "2026-06-22",
+    "subject": "Support follow-up",
+    "sender": "stacie93@example.org",
+    "body": "We are reviewing the current usage and may discuss additional seats during the next planning meeting.",
+    "sentiment": "Neutral"
+  },
+  {
+    "customer_id": "CUST-020",
+    "date": "2026-05-21",
+    "subject": "Usage review",
+    "sender": "michelle88@example.net",
+    "body": "Thank you for the support on our rollout. The dashboard reports are already saving our team time.",
+    "sentiment": "Positive"
+  },
+  {
+    "customer_id": "CUST-020",
+    "date": "2026-06-16",
+    "subject": "Usage review",
+    "sender": "tracey02@example.com",
+    "body": "The team at Black, Powers and Cannon is very happy with the onboarding experience and wants more product training.",
+    "sentiment": "Positive"
+  },
+  {
+    "customer_id": "CUST-020",
+    "date": "2026-05-24",
+    "subject": "Renewal discussion",
+    "sender": "hmorales@example.org",
+    "body": "We are reviewing the current usage and may discuss additional seats during the next planning meeting.",
+    "sentiment": "Neutral"
+  }
+]

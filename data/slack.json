@@ -1,0 +1,282 @@
+[
+  {
+    "customer_id": "CUST-001",
+    "date": "2026-06-24",
+    "author": "Melissa Walter",
+    "channel": "#support",
+    "body": "Customer requested a follow-up to discuss an expansion into a second team."
+  },
+  {
+    "customer_id": "CUST-001",
+    "date": "2026-06-19",
+    "author": "Justin Smith",
+    "channel": "#support",
+    "body": "Customer praised onboarding and wants a training session for new users."
+  },
+  {
+    "customer_id": "CUST-002",
+    "date": "2026-05-28",
+    "author": "Dr. Brenda Vazquez MD",
+    "channel": "#finance",
+    "body": "Renewal concern flagged by account team."
+  },
+  {
+    "customer_id": "CUST-002",
+    "date": "2026-05-26",
+    "author": "Steven Cline",
+    "channel": "#cs-success",
+    "body": "Customer escalated visibility issues and asked for an executive check-in."
+  },
+  {
+    "customer_id": "CUST-003",
+    "date": "2026-07-12",
+    "author": "Gabriel Johnson",
+    "channel": "#sales",
+    "body": "Engineering investigating a high-priority login issue."
+  },
+  {
+    "customer_id": "CUST-003",
+    "date": "2026-07-06",
+    "author": "William Curtis",
+    "channel": "#cs-success",
+    "body": "Customer asked for a timeline on the bug fix."
+  },
+  {
+    "customer_id": "CUST-004",
+    "date": "2026-06-10",
+    "author": "Benjamin Jenkins",
+    "channel": "#sales",
+    "body": "Finance is waiting on invoice clarification from the customer."
+  },
+  {
+    "customer_id": "CUST-004",
+    "date": "2026-06-05",
+    "author": "Peter Martin",
+    "channel": "#finance",
+    "body": "Customer raised a payment concern and is reviewing the latest invoice."
+  },
+  {
+    "customer_id": "CUST-005",
+    "date": "2026-06-20",
+    "author": "Brianna Taylor",
+    "channel": "#cs-success",
+    "body": "Possible discount conversation for a premium plan upgrade."
+  },
+  {
+    "customer_id": "CUST-005",
+    "date": "2026-07-03",
+    "author": "Kimberly Mendoza",
+    "channel": "#sales",
+    "body": "Revenue team flagged a strong expansion opportunity for the next quarter."
+  },
+  {
+    "customer_id": "CUST-006",
+    "date": "2026-06-19",
+    "author": "Donna Smith",
+    "channel": "#cs-success",
+    "body": "Customer is very happy after a smooth rollout and wants a feature walkthrough."
+  },
+  {
+    "customer_id": "CUST-006",
+    "date": "2026-06-15",
+    "author": "Rodney Farrell",
+    "channel": "#sales",
+    "body": "Customer success team is aligning on training next week."
+  },
+  {
+    "customer_id": "CUST-007",
+    "date": "2026-05-21",
+    "author": "Sarah Miller",
+    "channel": "#finance",
+    "body": "Usage has dropped and the account appears to be at risk of churn."
+  },
+  {
+    "customer_id": "CUST-007",
+    "date": "2026-06-02",
+    "author": "Dr. Joseph Chambers",
+    "channel": "#finance",
+    "body": "Account team is trying to re-engage the customer."
+  },
+  {
+    "customer_id": "CUST-008",
+    "date": "2026-05-24",
+    "author": "Thomas Davis",
+    "channel": "#finance",
+    "body": "Customer requested a follow-up to discuss an expansion into a second team."
+  },
+  {
+    "customer_id": "CUST-008",
+    "date": "2026-06-22",
+    "author": "Jamie Lee",
+    "channel": "#sales",
+    "body": "Customer praised onboarding and wants a training session for new users."
+  },
+  {
+    "customer_id": "CUST-009",
+    "date": "2026-06-13",
+    "author": "Mr. James Aguilar",
+    "channel": "#finance",
+    "body": "Renewal concern flagged by account team."
+  },
+  {
+    "customer_id": "CUST-009",
+    "date": "2026-07-01",
+    "author": "Brandon Kelly",
+    "channel": "#cs-success",
+    "body": "Customer escalated visibility issues and asked for an executive check-in."
+  },
+  {
+    "customer_id": "CUST-010",
+    "date": "2026-06-29",
+    "author": "Bradley White",
+    "channel": "#cs-success",
+    "body": "Engineering investigating a high-priority login issue."
+  },
+  {
+    "customer_id": "CUST-010",
+    "date": "2026-07-05",
+    "author": "Stacey Dean",
+    "channel": "#cs-success",
+    "body": "Customer asked for a timeline on the bug fix."
+  },
+  {
+    "customer_id": "CUST-011",
+    "date": "2026-06-29",
+    "author": "Thomas Friedman",
+    "channel": "#cs-success",
+    "body": "Finance is waiting on invoice clarification from the customer."
+  },
+  {
+    "customer_id": "CUST-011",
+    "date": "2026-06-20",
+    "author": "Lisa Watson",
+    "channel": "#cs-success",
+    "body": "Customer raised a payment concern and is reviewing the latest invoice."
+  },
+  {
+    "customer_id": "CUST-012",
+    "date": "2026-07-05",
+    "author": "Brooke Phelps",
+    "channel": "#sales",
+    "body": "Possible discount conversation for a premium plan upgrade."
+  },
+  {
+    "customer_id": "CUST-012",
+    "date": "2026-06-26",
+    "author": "Damon Cordova",
+    "channel": "#cs-success",
+    "body": "Revenue team flagged a strong expansion opportunity for the next quarter."
+  },
+  {
+    "customer_id": "CUST-013",
+    "date": "2026-07-09",
+    "author": "John Robinson",
+    "channel": "#sales",
+    "body": "Customer is very happy after a smooth rollout and wants a feature walkthrough."
+  },
+  {
+    "customer_id": "CUST-013",
+    "date": "2026-07-06",
+    "author": "Rachel Johnson",
+    "channel": "#support",
+    "body": "Customer success team is aligning on training next week."
+  },
+  {
+    "customer_id": "CUST-014",
+    "date": "2026-07-04",
+    "author": "Timothy Gonzales",
+    "channel": "#support",
+    "body": "Usage has dropped and the account appears to be at risk of churn."
+  },
+  {
+    "customer_id": "CUST-014",
+    "date": "2026-06-16",
+    "author": "Patricia Randall",
+    "channel": "#sales",
+    "body": "Account team is trying to re-engage the customer."
+  },
+  {
+    "customer_id": "CUST-015",
+    "date": "2026-06-24",
+    "author": "Kim Olson",
+    "channel": "#cs-success",
+    "body": "Customer requested a follow-up to discuss an expansion into a second team."
+  },
+  {
+    "customer_id": "CUST-015",
+    "date": "2026-06-27",
+    "author": "Dr. Nicholas Cervantes",
+    "channel": "#finance",
+    "body": "Customer praised onboarding and wants a training session for new users."
+  },
+  {
+    "customer_id": "CUST-016",
+    "date": "2026-06-22",
+    "author": "Hannah Edwards",
+    "channel": "#cs-success",
+    "body": "Renewal concern flagged by account team."
+  },
+  {
+    "customer_id": "CUST-016",
+    "date": "2026-06-13",
+    "author": "Martin Pearson",
+    "channel": "#support",
+    "body": "Customer escalated visibility issues and asked for an executive check-in."
+  },
+  {
+    "customer_id": "CUST-017",
+    "date": "2026-06-13",
+    "author": "Curtis Hodges",
+    "channel": "#cs-success",
+    "body": "Engineering investigating a high-priority login issue."
+  },
+  {
+    "customer_id": "CUST-017",
+    "date": "2026-07-03",
+    "author": "Jennifer Wise",
+    "channel": "#support",
+    "body": "Customer asked for a timeline on the bug fix."
+  },
+  {
+    "customer_id": "CUST-018",
+    "date": "2026-06-09",
+    "author": "Karen Bradshaw",
+    "channel": "#sales",
+    "body": "Finance is waiting on invoice clarification from the customer."
+  },
+  {
+    "customer_id": "CUST-018",
+    "date": "2026-06-01",
+    "author": "Ralph Guerra",
+    "channel": "#sales",
+    "body": "Customer raised a payment concern and is reviewing the latest invoice."
+  },
+  {
+    "customer_id": "CUST-019",
+    "date": "2026-06-03",
+    "author": "Brandon Rivera",
+    "channel": "#cs-success",
+    "body": "Possible discount conversation for a premium plan upgrade."
+  },
+  {
+    "customer_id": "CUST-019",
+    "date": "2026-06-02",
+    "author": "Troy Barron",
+    "channel": "#sales",
+    "body": "Revenue team flagged a strong expansion opportunity for the next quarter."
+  },
+  {
+    "customer_id": "CUST-020",
+    "date": "2026-07-06",
+    "author": "Jennifer Gonzalez",
+    "channel": "#support",
+    "body": "Customer is very happy after a smooth rollout and wants a feature walkthrough."
+  },
+  {
+    "customer_id": "CUST-020",
+    "date": "2026-06-27",
+    "author": "Bryce Keller",
+    "channel": "#cs-success",
+    "body": "Customer success team is aligning on training next week."
+  }
+]
